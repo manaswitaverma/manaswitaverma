@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! I am Manaswita Verma, a fellow tech enthusiast👋
 
 <!--
 **manaswitaverma/manaswitaverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
